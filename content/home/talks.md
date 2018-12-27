@@ -23,4 +23,8 @@ list_format = 2
 exclude_selected = false
 +++
 
-"Occult, Occultism, and Occulture"
+title="Occult, Occultism, and Occulture"
+subtitle="The Hidden and Many Meanings of Reality"
+
+title="Modern Indigeneity"
+subtitle="Contemporary Paganism and the Search for Roots"
