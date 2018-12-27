@@ -18,17 +18,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Masters in Religious Studies"
-  institution = "University of Missouri, Columbia"
-  year = 2019
+  course="MA in Religious Studies"
+  institution="University of Missouri, Columbia"
+  year=2019
 
 [[education.courses]]
-  course = "BA in Humanities with a concentration in Philosophy"
-  institution = "Marshall University"
-  year = 2017
+  course="BA in Philosophy"
+  institution="Marshall University"
+  year=2017
  
 +++
 
 # Biography
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
