@@ -1,5 +1,5 @@
 +++
-widget = conferences  
+widget = "conferences"  
 active = true
 date = 2016-04-20T00:00:00
 
