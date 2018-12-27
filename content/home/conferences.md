@@ -8,4 +8,6 @@ weight= 20
 
 +++
 
-The Beast and the Whore: Ethnographic Approaches in Esoteric Studies
+*The Beast and the Whore: Ethnographic Approaches in Esoteric Studies\\
+_Women's and Gender Studies Graduate Student Conference_
+
