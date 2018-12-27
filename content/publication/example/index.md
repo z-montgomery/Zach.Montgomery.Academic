@@ -1,4 +1,6 @@
-+++ title = "A Person Re-Identification System For Mobile Devices" date = 2015-09-01T00:00:00 draft = false
++++ 
+
+title = "A Person Re-Identification System For Mobile Devices" date = 2015-09-01T00:00:00 draft = false
 
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["GA Cushen"]
@@ -64,4 +66,6 @@ caption = "Image credit: Unsplash"
 
 Focal point (optional)
 Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = "" +++
+focal_point = "" 
+
++++
