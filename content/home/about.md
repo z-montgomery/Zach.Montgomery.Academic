@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Masters in Religious Studies"
   institution = "University of Missouri, Columbia"
-  year = 2017-Present
+  year = 2019
 
 [[education.courses]]
   course = "BA in Humanities with a concentration in Philosophy"
