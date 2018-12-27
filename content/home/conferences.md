@@ -10,5 +10,6 @@ Order that this section will appear in.
 weight = 60
 
 +++
-
+"""
 The Beast and the Whore: Ethnographic Approaches in Esoteric Studies
+"""
