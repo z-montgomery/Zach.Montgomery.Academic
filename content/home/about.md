@@ -30,4 +30,4 @@ weight = 5
 +++
 
 # Biography
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Zachary received his undergraduate degree from Marshall University and is currently a first-year graduate student in the Department of Religious Studies. He researches how pagan, occult, and esoteric communities experience religion in America through ethnographic study. He is especiall interested in how these communities interact with mainstream American culture and other religious traditions to create and maintain a distinct religious identity.   
