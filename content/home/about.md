@@ -30,4 +30,4 @@ weight = 5
 +++
 
 # Biography
-Zachary received his undergraduate degree from Marshall University and is currently a first-year graduate student in the Department of Religious Studies. He researches how pagan, occult, and esoteric communities experience religion in America through ethnographic study. He is especiall interested in how these communities interact with mainstream American culture and other religious traditions to create and maintain a distinct religious identity.   
+Zachary Montgomery researches how contemporary pagan, occult, and esoteric communities experience religion in America through ethnographic fieldwork. He is especially interested in the interactions which occur between these communities, other religious traditions, and American culture.   
