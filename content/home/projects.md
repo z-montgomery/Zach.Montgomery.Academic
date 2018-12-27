@@ -50,4 +50,4 @@ filter_default = 0
 
 +++
 
-Being Pagan in Contemporary Amaerica
+Being Pagan in Contemporary America
