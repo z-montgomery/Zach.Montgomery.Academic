@@ -106,7 +106,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "forest"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -262,7 +262,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:zam6bc@mail.missouri.edu"  # For a direct email link, use "mailto:test@example.org".
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -275,6 +275,7 @@ enableGitInfo = false
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
   align_right = true
