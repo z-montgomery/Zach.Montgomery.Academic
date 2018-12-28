@@ -28,16 +28,16 @@ date_format = "January 2006"
   description = """
   Assisted with the following classes:\\
   \\
-  *Religions of the World\\
-  *Indiginous Religions\\
-  *Harry Potter, Magic, and Religion\
+  •Religions of the World\\
+  •Indiginous Religions\\
+  •Harry Potter, Magic, and Religion\
   \\
   Duties include:\\
   \\
-  *Leading weekly discusssion groups\\
-  *Assist in creation of syllabus and class material\\
-  *Grading assignments in timely manner\\
-  *Lecturing on areas of research for the entire class\\
+  •Leading weekly discusssion groups\\
+  •Assist in creation of syllabus and class material\\
+  •Grading assignments in timely manner\\
+  •Lecturing on areas of research for the entire class\\
   
   """
 +++
