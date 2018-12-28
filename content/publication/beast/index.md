@@ -18,7 +18,7 @@ authors = ["Zachary A. Montgomery"]
 publication_types = ["1"]
 
 #Publication name and optional abbreviated version.
-publication= "at the _Women's and Gender Studies Graduate Conference_" 
+publication= "_Women's and Gender Studies Graduate Conference_" 
 
 #Abstract and optional shortened version.
 abstract= "" 
