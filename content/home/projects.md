@@ -1,4 +1,5 @@
 +++
+
 # Projects widget.
 widget= "projects"
 active= true
@@ -30,7 +31,7 @@ flip_alt_rows = false
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+#filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
