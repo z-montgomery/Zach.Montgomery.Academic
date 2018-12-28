@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "American Religion",
     "Contemporary Paganism",
     "Occultism",
-    "Occult Communities",
+    "Esotericism",
     "Ethnography",
   ]
 
@@ -20,7 +21,7 @@ weight = 5
 [[education.courses]]
   course="MA in Religious Studies"
   institution="University of Missouri, Columbia"
-  year=2019
+  year=2020
 
 [[education.courses]]
   course="BA in Philosophy"
