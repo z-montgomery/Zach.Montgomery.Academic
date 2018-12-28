@@ -14,7 +14,7 @@ summary= "An example of using the in-built project page."
 #tags= ["Deep Learning"]  
   
 #Optional external URL for project (replaces project detail page).  
-external_link= ""  
+#external_link= ""  
   
 #Slides (optional).  
 #Associate this project with Markdown slides.  
