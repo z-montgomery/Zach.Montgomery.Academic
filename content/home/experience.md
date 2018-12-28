@@ -29,7 +29,7 @@ date_format = "January 2006"
   Assisted with the following classes:  
     
   •Religions of the World  
-  •Indiginous Religions  
+  •Indigenous Religions  
   •Harry Potter, Magic, and Religion  
     
   Duties include:  
