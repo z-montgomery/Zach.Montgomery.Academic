@@ -1,10 +1,10 @@
 +++
 # Projects widget.
-widget = "projects"
-active = false
-date = 2016-04-20T00:00:00
+widget= "projects"
+active= true
+date= 2018-12-27T00:00:00
 
-title = "Research Projects"
+title = "Ongoing Research Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -13,7 +13,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder= "projects/pagan"
 
 # View.
 # Customize how projects are displayed.
@@ -49,5 +49,3 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-
-Being Pagan in Contemporary America
