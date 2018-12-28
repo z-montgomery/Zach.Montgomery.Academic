@@ -50,4 +50,3 @@ flip_alt_rows = false
 #   tag = "Demo"
 
 +++
-•Being Pagan in Contemporary America
