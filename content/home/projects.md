@@ -14,7 +14,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder= "projects"
+folder= "project"
 
 # View.
 # Customize how projects are displayed.
@@ -50,4 +50,4 @@ flip_alt_rows = false
 #   tag = "Demo"
 
 +++
-Being Pagan in Contemporary America
+•Being Pagan in Contemporary America
