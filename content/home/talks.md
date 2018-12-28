@@ -23,5 +23,5 @@ list_format = 2
 exclude_selected = false
 +++
 
-*Occult, Occultism, and Occulture: The Hidden and Many Meanings of Reality
-*Reclaiming Indigeneity: Contemporary Paganism and the Search for Roots
+•Occult, Occultism, and Occulture: The Hidden and Many Meanings of Reality
+•Reclaiming Indigeneity: Contemporary Paganism and the Search for Roots
