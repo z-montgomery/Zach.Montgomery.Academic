@@ -10,7 +10,7 @@ time_start= 2030-06-01T13:00:00
 time_end= 2030-06-01T15:00:00
 
 #*Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors= ["Zachary A. Montgomery]
+authors= ["Zachary A. Montgomery"]
 
 #Abstract and optional shortened version.
 abstract= "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam." 
