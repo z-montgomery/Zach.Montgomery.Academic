@@ -30,7 +30,7 @@ date_format = "January 2006"
     
   •Religions of the World  
   •Indigenous Religions  
-  •Religion and Psychological Perspectives
+  •Religion and Psychological Perspectives  
   •Harry Potter, Magic, and Religion  
     
   Duties include:  
