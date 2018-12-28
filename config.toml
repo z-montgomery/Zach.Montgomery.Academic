@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "zam6bc@mail.missouri.edu"
   address = "Arts and Sciences Building 316A Columbia, MO 65201"
   office_hours = """
-  Friday 12:00pm - 2:00pm
+  Friday 12:00pm - 2:00pm  
   Otherwise email to book an appointment
   """
   phone = ""
