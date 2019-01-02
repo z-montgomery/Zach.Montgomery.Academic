@@ -27,8 +27,7 @@ date_format = "January 2006"
   date_end= ""
   description= """
   •A multi-year ethnographic study of contemporary Pagan communities in the Midwest region  
-  """
-  
+  """  
 [[experience]]
   title= "Teaching Assistant"
   company= "University of Missouri, Columbia"
@@ -44,7 +43,6 @@ date_format = "January 2006"
   •Religion and Psychological Perspectives (Spring (2018)  
   •Indigenous Religions (Fall 2017)  
   """
-  
 [[experience]]
   title= "Research Assistant"
   company= "University of Missouri, Columbia"
