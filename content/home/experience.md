@@ -25,7 +25,9 @@ date_format = "January 2006"
   location= ""
   date_start= "2017-08-01"
   date_end= ""
-  description= "•A multi-year ethnographic study of contemporary Pagan communities in the Midwest region"
+  description= """
+  •A multi-year ethnographic study of contemporary Pagan communities in the Midwest region  
+  """
   
 [[experience]]
   title= "Teaching Assistant"
@@ -49,5 +51,7 @@ date_format = "January 2006"
   company_url= ""
   date_start= "2018-01-01"
   date_end= "2018-05-01"
-  description= "•Special Collections University of Missouri, Columbia Library"
+  description= """
+  •Special Collections University of Missouri, Columbia Library  
+  """
 +++
