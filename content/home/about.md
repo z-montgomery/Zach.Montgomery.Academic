@@ -31,4 +31,6 @@ weight = 5
 +++
 
 # Biography
+*Still Under Construction*
+
 Zachary A. Montgomery researches how contemporary pagan, occult, and esoteric communities experience religion in America through ethnographic fieldwork. He is especially interested in the interactions which occur between these communities, other religious traditions, and American culture.   
