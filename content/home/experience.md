@@ -23,7 +23,7 @@ date_format = "January 2006"
   company= ""
   company_url= ""
   location= ""
-  date_start= " August 2017"
+  date_start= "August 2017"
   date_end= ""
   description= "•A multi-year ethnographic study of contemporary Pagan communities in the Midwest region"
   
