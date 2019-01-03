@@ -11,26 +11,25 @@ weight = 5
 [interests]
   interests = [
     "American Religion",
+    "Ethnography",
     "Contemporary Paganism",
     "Occultism",
-    "Esotericism",
-    "Ethnography",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course="MA in Religious Studies"
-  institution="University of Missouri, Columbia"
-  year=2020
+  course= "MA in Religious Studies"
+  institution= "University of Missouri, Columbia"
+  year= 2020
 
 [[education.courses]]
-  course="BA in Philosophy"
-  institution="Marshall University"
-  year=2017
+  course= "BA in Philosophy"
+  institution= "Marshall University"
+  year= 2017
  
 +++
 
 # Biography
-*Still Under Construction*
+**_Site Still Under Construction_**
 
 Zachary A. Montgomery researches how contemporary pagan, occult, and esoteric communities experience religion in America through ethnographic fieldwork. He is especially interested in the interactions which occur between these communities, other religious traditions, and American culture.   
