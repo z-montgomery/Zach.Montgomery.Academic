@@ -19,16 +19,6 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title= "Principle Investigator"
-  company= "University of Missouri, Columbia"
-  company_url= ""
-  location= ""
-  date_start= "2017-08-01"
-  date_end= ""
-  description= """
-  •A multi-year ethnographic study of contemporary Pagan communities in the Midwest region  
-  """  
-[[experience]]
   title= "Teaching Assistant"
   company= "University of Missouri, Columbia"
   company_url= ""
@@ -36,8 +26,6 @@ date_format = "January 2006"
   date_start= "2017-08-01"
   date_end= ""
   description= """
-  Assisted with the following classes:  
-    
   •Religions of the World (Fall 2018, Spring 2019)  
   •Harry Potter, Magic, and Religion (Fall 2018)  
   •Religion and Psychological Perspectives (Spring (2018)  
