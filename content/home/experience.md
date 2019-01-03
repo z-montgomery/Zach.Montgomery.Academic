@@ -43,13 +43,4 @@ date_format = "January 2006"
   •Religion and Psychological Perspectives (Spring (2018)  
   •Indigenous Religions (Fall 2017)  
   """
-[[experience]]
-  title= "Research Assistant"
-  company= "University of Missouri, Columbia"
-  company_url= ""
-  date_start= "2018-01-01"
-  date_end= "2018-05-01"
-  description= """
-  •Special Collections University of Missouri, Columbia Library  
-  """
 +++
