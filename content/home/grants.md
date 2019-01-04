@@ -2,7 +2,7 @@
 widget= "custom"
 active= true
 date= 2018-12-27T00:00:00
-title= "Honors and Grants"
+title= "Grants"
 subtitle = ""
 weight= 20
 
