@@ -31,4 +31,15 @@ date_format = "January 2006"
   •Religion and Psychological Perspectives (Spring (2018)  
   •Indigenous Religions (Fall 2017)  
   """
+[[experience]]
+  title= "Principle Investigator"
+  company= "University of Missouri, Columbia"
+  company_url= ""
+  location= ""
+  date_start= "2017-08-01"
+  date_end= ""
+  description= """
+  •A multi-year ethnographic study of contemporary Pagan communities in the Midwest region  
+  """  
+  
 +++
