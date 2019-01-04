@@ -7,7 +7,7 @@ title= "Being Pagan in Contemporary America"
 date= 2018-12-27T00:00:00  
   
 #Project summary to display on homepage.  
-summary= "An example of using the in-built project page."  
+summary= "Multiyear ethnographic fieldwork in the Midwest region of America."  
   
 #Tags: can be used for filtering projects.  
 #Example: tags = ["machine-learning", "deep-learning"]  
