@@ -32,8 +32,7 @@ date_format = "January 2006"
   •Indigenous Religions (Fall 2017)  
   """
 [[experience]]
-  title= "Principle Investigator"
-  subtitle= "Being Pagan in Contemporary America"
+  title= "Principle Investigator - _Being Pagan in Contemporary America_"
   company= "University of Missouri, Columbia"
   company_url= ""
   location= ""
