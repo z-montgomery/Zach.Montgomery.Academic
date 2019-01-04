@@ -6,66 +6,67 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://golden-monkey317.netlify.com/"
+baseurl= "https://nifty-morse-36606e.netlify.com/"
 
 # Title of your site
-title = "Zachary A. Montgomery - Religious Studies"
+title= "Zachary A. Montgomery - Religious Studies Scholar"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright= "&copy; 2018"
 
-theme = "academic"
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-preserveTaxonomyNames = true
-paginate = 10
+theme= "academic"
+enableEmoji= true
+footnotereturnlinkcontents= "<sup>^</sup>"
+ignoreFiles= ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames= true
+paginate= 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname= ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics= ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+defaultContentLanguage= "en"
+hasCJKLanguage= false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir= false
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo= false
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS", "JSON" ]
-  section = [ "HTML", "RSS" ]
+  home= [ "HTML", "CSS", "RSS", "JSON" ]
+  section= [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab.
-  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
-  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
-  extensions = ["backslashLineBreak"]
+  hrefTargetBlank= true  # `true` opens external links in a new tab.
+  fractions= true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants= true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions= ["backslashLineBreak"]
 
 [params]
   # AUTHOR SETUP
 
   # Your details.
-  name = "Zachary A. Montgomery"
-  role = "Graduate Student, Religious Studies Dept."
+  name= "Zachary A. Montgomery"
+  role= "Graduate Student, Religious Studies Dept."
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name="University of Missouri, Columbia", url=""} ]
+  organizations= [ {name="University of Missouri, Columbia", url="https://religiousstudies.missouri.edu/"} ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar= false  # Get your avatar from Gravatar.com? (true/false)
+  avatar= "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "zam6bc@mail.missouri.edu"
-  address = "Arts and Sciences Building  316A Columbia, MO 65201"
-  office_hours = """
+  email= "zam6bc@mail.missouri.edu"
+  address= "Arts and Sciences Building  316A Columbia, MO 65201"
+  office_hours= """
+  Spring 2019  
   Friday 12:00pm - 2:00pm  
   Otherwise email to book an appointment
   """
@@ -96,55 +97,55 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  map= 0
+  map_api_key= ""
+  latitude= "37.4275"
+  longitude= "-122.1697"
+  zoom= 15
 
   # SITE SETUP
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "forest"
+  color_theme= "default"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night= true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font= "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description= ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image= ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter= ""
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo= ""
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format= "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format= "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time= true
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count= true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager= false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math= false
 
   # Highlight.js options
   #   highlight
@@ -171,22 +172,22 @@ enableGitInfo = false
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-  highlight = true
-  highlight_languages = []
+  highlight= true
+  highlight_languages= []
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing= true
 
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = false
+  privacy_pack= false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  custom_js  = []
+  custom_css= []
+  custom_js= []
 
   # Publication types.
   #   Used to categorize publications.
@@ -208,24 +209,24 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time= true
 
   # Configuration of publication pages.
   [params.publications]
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    date_format= "January, 2006"
 
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children= true
 
     # Post list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    post_format = 2
+    post_format= 2
 
     # Publication list format.
     #   0 = Simple
@@ -233,7 +234,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format= 4
 
     # Talk list format.
     #   0 = Simple
@@ -260,9 +261,9 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "mailto:zam6bc@mail.missouri.edu"  # For a direct email link, use "mailto:test@example.org".
+    icon= "envelope"
+    icon_pack= "fas"
+    link= "mailto:zam6bc@mail.missouri.edu"  # For a direct email link, use "mailto:test@example.org".
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -278,39 +279,39 @@ enableGitInfo = false
 
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = true
+  align_right= true
+
+[[menu.main]]
+  name= "Home"
+  url= "#about"
+  weight= 1
 
 #[[menu.main]]
-#  name = "Home"
-#  url = "#about"
-#  weight = 1
+#  name= "Publications"
+#  url= "#publications_selected"
+#  weight= 2
 
 #[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+#  name= "Posts"
+#  url= "#posts"
+#  weight= 2
 
 #[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 2
+#  name= "Projects"
+#  url= "#projects"
+#  weight= 3
 
 #[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 3
-
-#[[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 4
+#  name= "Contact"
+#  url= "#contact"
+#  weight= 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+#    name= "CV"
+#    url= "files/cv.pdf"
+#    weight= 7
 
 # Search.
 [params.search]
@@ -318,21 +319,21 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine= 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [params.search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+    app_id= ""
+    api_key= ""
+    index_name= ""
+    show_logo= false
 
 # Taxonomies.
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+  tag= "tags"
+  category= "categories"
+  publication_type= "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
@@ -340,7 +341,7 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [languages.en]
-  languageCode = "en-us"
+  languageCode= "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
