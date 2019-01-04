@@ -66,8 +66,8 @@ enableGitInfo= false
   email= "zam6bc@mail.missouri.edu"
   address= "Arts and Sciences Building  316A Columbia, MO 65201"
   office_hours= """
-  Spring 2019  
-  Friday 12:00pm - 2:00pm  
+  Spring 2019:  
+  Fridays 12:00-2:00pm  
   Otherwise email to book an appointment
   """
   phone = ""
@@ -107,7 +107,7 @@ enableGitInfo= false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme= "default"
+  color_theme= "forest"
   # Enable users to switch between day and night mode?
   day_night= true
 
