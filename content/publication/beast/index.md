@@ -21,7 +21,10 @@ publication_types = ["1"]
 publication= "_Women's and Gender Studies Graduate Conference_" 
 
 #Abstract and optional shortened version.
-abstract= "" 
+abstract= """
+The _Ordo Templi Orientis_, or OTO, grew in prominence through the writings and marketing of English occultist Alesiter Crowley at the beginning of the 20th century. Crowley's journals, which detail his magical practices, rituals, and theories, are still used in the instruction and guidance for new magicians. The journals demonstrate a deeply rooted misogony which envision women and female bodies around which "magick" occurs. Crowley's orignal vision, however, is at odds with the available demographic information of contemporary occult communities which 1) are mostly female and 2) employ feminist theories to reread and recontextualize Crowley's writings. Thelema is now envisioned as a liberatory philosophy for women which challenges patriarchical norms.  
+  
+In this paper I argue that the OTO, the practice of Thelema, and other contemporary occult practices are still undergoing these changes. Because of this, there is an increased need for ethnographic fieldwork within those communities to understand how these changes are occurring at both the individual and communal levels." 
 abstract_short= ""
 
 #Is this a selected publication? (true/false)
@@ -33,7 +36,7 @@ selected= false
 #E.g. projects = ["deep-learning"] references
 #content/project/deep-learning/index.md.
 #Otherwise, set projects = [].
-projects= []
+projects= [pagan]
 
 #Slides (optional).
 #Associate this publication with Markdown slides.
