@@ -8,4 +8,4 @@ weight= 20
 
 +++
 
-•Jill Raitt Opportunities for Excellence in Religious Studies ($2357)
+•2017 _University of Missouri, Columbia_, Jill Raitt Opportunities for Excellence in Religious Studies ($2357)
