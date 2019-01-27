@@ -9,4 +9,5 @@ weight= 60
 
 +++
 
-•2019   _Heartland Pagan Festival_, Don't Fear the Researcher: Pagan Studies, Fieldwork, and You (May)
+•2019   _Heartland Pagan Festival_, "Don't Fear the Researcher: Pagan Studies, Fieldwork, and You" (May)
+•2019   _Temple Scarlet Presents_, "A History of Tantra" (Jan 26)
