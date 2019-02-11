@@ -16,7 +16,7 @@ authors= ["Zachary A. Montgomery"]
 
 #Name of event and optional event URL. 
 event= "Heartland Pagan Festival" 
-event_url= https://kchsa.com/heartland-pagan-festival/
+event_url= "https://kchsa.com/heartland-pagan-festival/"
 
 #Location of event. 
 location= "Kansas City, MO"
