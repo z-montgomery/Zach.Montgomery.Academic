@@ -1,6 +1,6 @@
 +++ title= "Don't Fear the Researcher: Pagan Studies, Fieldwork, and You" 
 date= 2019-05-25T00:00:00 
-draft= true
+draft= false
 
 #Talk start and end times. 
 #End time can optionally be hidden by prefixing the line with #. 
