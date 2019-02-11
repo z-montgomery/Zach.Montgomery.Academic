@@ -17,7 +17,7 @@ authors= ["Zachary A. Montgomery"]
 
 #Name of event and optional event URL.
 event="Heartland Pagan Festival"
-event_url="https://kchsa.com"
+event_url=""
 
 #Location of event.
 location="Kansas City, MO"
@@ -63,5 +63,3 @@ math=false
 focal_point= "Right"
 
 +++
-Blog
-About
