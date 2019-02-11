@@ -1,4 +1,5 @@
-+++ title= "Don't Fear the Researcher: Pagan Studies, Fieldwork, and You" 
++++ 
+title= "Don't Fear the Researcher: Pagan Studies, Fieldwork, and You" 
 date= 2019-05-25T00:00:00 
 draft= false
 
@@ -62,16 +63,5 @@ math=false
 focal_point= "Right"
 
 +++
-
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
 Blog
 About
