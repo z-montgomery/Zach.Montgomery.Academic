@@ -2,7 +2,7 @@
 
 title= "A History of Tantra" 
 date= 2019-01-26T00:00:00 
-draft= true
+draft= false
 
 #Talk start and end times. 
 #End time can optionally be hidden by prefixing the line with #. 
