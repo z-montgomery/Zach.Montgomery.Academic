@@ -1,8 +1,8 @@
 +++
 # Recent and Upcoming Talks widget.
 widget = "talks"
-active = false
-date = 2016-04-20T00:00:00
+active = true
+date = 2019-02-11T00:00:00
 
 title = "Recent & Upcoming Presentations"
 subtitle = ""
@@ -22,3 +22,4 @@ list_format = 2
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
+ 
