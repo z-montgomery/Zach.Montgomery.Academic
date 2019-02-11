@@ -60,7 +60,7 @@ enableGitInfo= false
   organizations= [ {name="University of Missouri, Columbia", url="https://religiousstudies.missouri.edu/"} ]
 
   gravatar= false  # Get your avatar from Gravatar.com? (true/false)
-  avatar= "IMG_0430.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar= ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email= "zam6bc@mail.missouri.edu"
