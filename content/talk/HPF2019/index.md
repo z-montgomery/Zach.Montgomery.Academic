@@ -1,6 +1,7 @@
 +++ 
+
 title= "Don't Fear the Researcher: Pagan Studies, Fieldwork, and You" 
-date= 2019-05-25T00:00:00 
+date= 2019-05-25T10:00:00 
 draft= false
 
 #Talk start and end times. 
@@ -16,11 +17,11 @@ authors= ["Zachary A. Montgomery"]
 #abstract_short= "An example talk using Academic's Markdown slides feature."
 
 #Name of event and optional event URL.
-event="Heartland Pagan Festival"
-event_url=""
+event= "Heartland Pagan Festival"
+event_url= ""
 
 #Location of event.
-location="Kansas City, MO"
+location= "Kansas City, MO"
 
 #Is this a selected talk? (true/false)
 selected = false
@@ -33,7 +34,7 @@ projects=["pagan"]
 
 #Tags (optional).
 #Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags=[]
+tags = []
 
 #Slides (optional).
 #Associate this talk with Markdown slides.
