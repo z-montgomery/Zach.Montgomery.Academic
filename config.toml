@@ -73,7 +73,7 @@ enableGitInfo= false
   phone = ""
   skype = ""
   telegram = ""
-  keybase = ""  # Your keybase.io username.
+  keybase = ""
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
