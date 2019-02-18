@@ -47,4 +47,6 @@ focal_point= "Smart"
   
 +++
 
-This project looks at the boundaries which are created between contemporary Pagan and occult communities and larger mainstream culture. Specifically, I look at where boundaries are contested within and by Pagan communities to understand how that contestation, or culture war, shapes the religious beliefs, practices, and experiences available to those communities.  
+This project looks at the boundaries which are created between contemporary Pagan and occult communities and larger mainstream culture. Specifically, I look at where boundaries are contested within and by Pagan communities to understand how that contestation, or culture war, shapes the religious beliefs, practices, and experiences available to those communities.
+
+Part of this project involves engaging with local Pagan communities and organizations to show how they are being studied by academic scholars and show them how they can become involved in Pagan Studies. 
