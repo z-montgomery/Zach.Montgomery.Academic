@@ -1,6 +1,7 @@
 +++ 
 title= "An Angry Goddess Challenges Monsanto: The Creation of Boundaries in Contemporary Pagan Discourse" 
-date= 2019-11-25T00:00:00 
+date= 2019-04-02T00:00:00
+publishdate= 2019-11-25T00:00:00 
 draft= false
 
 #Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
