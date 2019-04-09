@@ -1,6 +1,7 @@
 +++ 
 title= "The Beast and the Whore: Ethnographic Approaches in Esoteric Studies" 
-date= 2018-03-10T00:00:00 
+date= 2018-03-10T00:00:00
+publishdate= 2018-03-10T00:00:00
 draft= false
 
 #Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
