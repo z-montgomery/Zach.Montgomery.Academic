@@ -354,3 +354,9 @@ enableGitInfo= false
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
