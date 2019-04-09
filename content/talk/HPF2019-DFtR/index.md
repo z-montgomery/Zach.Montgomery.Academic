@@ -2,6 +2,7 @@
 
 title= "Don't Fear the Researcher: Pagan Studies, Fieldwork, and You" 
 date= 2019-05-25T00:00:00 
+publishDate= 2019-04-02T00:00:00
 draft= false
 
 #Talk start and end times. 
