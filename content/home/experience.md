@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_end= ""
   description= """
   •Religions of the World (Fall 2018, Spring 2019)  
-  •Harry Potter, Magic, and Religion (Fall 2018)  
+  •Harry Potter, Magic, and Religion (Fall 2018, Fall 2019)  
   •Religion and Psychological Perspectives (Spring (2018)  
   •Indigenous Religions (Fall 2017)  
   """
