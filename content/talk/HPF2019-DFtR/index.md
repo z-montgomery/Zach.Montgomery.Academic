@@ -1,13 +1,13 @@
 +++ 
 
 title= "Don't Fear the Researcher: Pagan Studies, Fieldwork, and You" 
-date= 2019-05-25T00:00:00 
+date= 2019-05-25T11:00:00 
 publishDate= 2019-04-02T00:00:00
 draft= false
 
 #Talk start and end times. 
 #End time can optionally be hidden by prefixing the line with #. 
-#time_start= 2030-06-01T13:00:00 
+#time_start= 2019-05-25T13:00:00 
 #time_end= 2030-06-01T15:00:00
 
 #Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
